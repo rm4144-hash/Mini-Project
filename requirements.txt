@@ -1,0 +1,5 @@
+sqlalchemy
+pandas
+schedule
+email-validator
+python-dateutil
